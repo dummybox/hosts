@@ -14,8 +14,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 
-0.0.0.0 mo.keib.xyz
-0.0.0.0 eo.keib.xyz
+0.0.0.0 mo.keilb.xyz
+0.0.0.0 eo.keilb.xyz
 0.0.0.0 erogames.com
 0.0.0.0 pjx1ky4xhwip.com
 # End yoyo.org
