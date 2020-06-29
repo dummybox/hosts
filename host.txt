@@ -18,6 +18,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 eo.keilb.xyz
 0.0.0.0 erogames.com
 0.0.0.0 pjx1ky4xhwip.com
+0.0.0.0 mo.pyntb.xyz
+0.0.0.0 eo.pyntb.xyz
 # End yoyo.org
 
 # blacklist
